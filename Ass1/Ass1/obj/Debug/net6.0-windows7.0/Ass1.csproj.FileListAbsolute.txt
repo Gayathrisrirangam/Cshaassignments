@@ -1,0 +1,15 @@
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.csproj.AssemblyReference.cache
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.GeneratedMSBuildEditorConfig.editorconfig
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.AssemblyInfoInputs.cache
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.AssemblyInfo.cs
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.csproj.CoreCompileInputs.cache
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\bin\Debug\net6.0-windows7.0\Ass1.exe
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\bin\Debug\net6.0-windows7.0\Ass1.deps.json
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\bin\Debug\net6.0-windows7.0\Ass1.runtimeconfig.json
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\bin\Debug\net6.0-windows7.0\Ass1.dll
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\bin\Debug\net6.0-windows7.0\Ass1.pdb
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.dll
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\refint\Ass1.dll
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.pdb
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Ass1.genruntimeconfig.cache
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\ref\Ass1.dll

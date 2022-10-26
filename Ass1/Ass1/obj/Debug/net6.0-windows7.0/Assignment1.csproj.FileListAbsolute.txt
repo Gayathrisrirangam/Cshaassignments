@@ -1,0 +1,5 @@
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Assignment1.csproj.AssemblyReference.cache
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Assignment1.AssemblyInfoInputs.cache
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Assignment1.AssemblyInfo.cs
+H:\I -Transform Built .Net core Azure\C#\Ass1\Ass1\obj\Debug\net6.0-windows7.0\Assignment1.csproj.CoreCompileInputs.cache
