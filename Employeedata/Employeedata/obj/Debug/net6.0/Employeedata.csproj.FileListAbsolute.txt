@@ -1,0 +1,15 @@
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\bin\Debug\net6.0\Employeedata.exe
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\bin\Debug\net6.0\Employeedata.deps.json
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\bin\Debug\net6.0\Employeedata.runtimeconfig.json
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\bin\Debug\net6.0\Employeedata.dll
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\bin\Debug\net6.0\Employeedata.pdb
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.csproj.AssemblyReference.cache
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.GeneratedMSBuildEditorConfig.editorconfig
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.AssemblyInfoInputs.cache
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.AssemblyInfo.cs
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.csproj.CoreCompileInputs.cache
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.dll
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\refint\Employeedata.dll
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.pdb
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\Employeedata.genruntimeconfig.cache
+H:\I -Transform Built .Net core Azure\C#\Employeedata\Employeedata\obj\Debug\net6.0\ref\Employeedata.dll
