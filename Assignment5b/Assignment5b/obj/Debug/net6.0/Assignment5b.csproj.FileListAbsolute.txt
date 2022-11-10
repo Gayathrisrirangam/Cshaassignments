@@ -1,0 +1,15 @@
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\bin\Debug\net6.0\Assignment5b.exe
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\bin\Debug\net6.0\Assignment5b.deps.json
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\bin\Debug\net6.0\Assignment5b.runtimeconfig.json
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\bin\Debug\net6.0\Assignment5b.dll
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\bin\Debug\net6.0\Assignment5b.pdb
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.csproj.AssemblyReference.cache
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.AssemblyInfoInputs.cache
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.AssemblyInfo.cs
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.csproj.CoreCompileInputs.cache
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.dll
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\refint\Assignment5b.dll
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.pdb
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\Assignment5b.genruntimeconfig.cache
+C:\Users\gayathrisrirangamvm\source\repos\Assignment5b\Assignment5b\obj\Debug\net6.0\ref\Assignment5b.dll
